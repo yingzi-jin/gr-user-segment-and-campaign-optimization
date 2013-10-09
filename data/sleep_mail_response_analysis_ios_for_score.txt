@@ -1,0 +1,11 @@
+age	female_flg	grade	is_invite	reg_period	link_num	loginday	login_AP	login_SA	login_SNS	login_Other	applog	app	appreg_period	coinuse_cnt	coinuse	class_1	class_2	al_irasto	al_character	al_action	al_style	al_melody	al_life	al_rpg	al_pachinko	al_illust	al_uranai	al_pazzle	al_sports	al_kawa	al_love	al_ikusei	al_emoji	al_mens	al_table	al_shindan	al_uta	al_simulation	al_quiz	al_adventure	al_zenpan	al_others	c_install	c_preopen	response
+14	0	2	1	10	19	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21	1	2	0	17	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+38	1	2	0	25	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+53	0	2	0	16	0	2	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+17	1	2	0	33	32	1	1	0	0	0	1	1	24	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	0	2	0	55	4	3	3	6	1	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+15	0	2	1	35	45	1	1	3	2	5	2	1	0	0	0	2	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28	0	2	0	15	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+42	1	2	0	14	1	2	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23	0	2	0	15	33	7	1	12	4	23	5	4	3	0	0	0	1	0	0	1	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1
